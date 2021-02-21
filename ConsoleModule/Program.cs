@@ -14,6 +14,7 @@ namespace ConsoleModule
             Console.WriteLine("Hello, Wrld");
             int age = Convert.ToInt32(Console.ReadLine());
             var number = 123444444;
+            string semenName = "Semen";
             Console.WriteLine(number);
             string name = Console.ReadLine();
             Console.WriteLine($"Age is {age}\nName is {name}");
