@@ -13,7 +13,8 @@ namespace ConsoleModule
             //TODO
             Console.WriteLine("Hello, Wrld");
             int age = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine($"Age is {age}");
+            string name = Console.ReadLine();
+            Console.WriteLine($"Age is {age}\nName is {name}");
             Console.ReadKey();
         }
     }
