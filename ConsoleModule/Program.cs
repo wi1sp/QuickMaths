@@ -19,6 +19,7 @@ namespace ConsoleModule
             string name = Console.ReadLine();
             Console.WriteLine($"Age is {age}\nName is {name}");
             Console.ReadKey();
+            /*dhkd;nghlfknjblfnj;ksnakj;lvnlkasv*/
         }
     }
 }
